@@ -1,4 +1,4 @@
-# BlackJack Vite - Proyecto Casino
+# BlackJack Vite - Proyecto Casino Rama2
 
 Pasos para ejecutar proyecto:
 
