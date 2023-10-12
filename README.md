@@ -1,4 +1,4 @@
-# BlackJack Vite
+# BlackJack Vite - Proyecto Casino
 
 Pasos para ejecutar proyecto:
 
